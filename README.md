@@ -1,5 +1,4 @@
-# Hi, I'm Fatima 👋
-💻 **MERN Stack & Wix Web Developer** <h1 align="center">Hi 👋, I'm Fatima</h1>
+<h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">💻 MERN Stack & Wix Web Developer | 🚀 Passionate about Web Development</h3>
 
 ---
