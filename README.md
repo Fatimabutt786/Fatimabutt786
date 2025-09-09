@@ -53,17 +53,20 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub & Coding Stats
 
 <div align="center">
+  <!-- GitHub Stats (transparent, borderless) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=transparent&hide_border=true" alt="Fatima's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=transparent&hide_border=true" alt="GitHub Streak" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=transparent" alt="Fatima's GitHub stats" height="160"/>
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
-
-  <img src="https://streak-stats.demolab.com/?user=Fatima25&theme=transparent" alt="GitHub Streak" height="160"/>
-
+  <!-- LeetCode Stats Card (transparent, no border) -->
+  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=transparent&ext=activity&disable_border=true" alt="LeetCode Stats" height="250"/>
 </div>
+
 
 
 
