@@ -1,5 +1,54 @@
 # Hi, I'm Fatima 👋
-💻 **MERN Stack & Wix Web Developer**  
+💻 **MERN Stack & Wix Web Developer** <h1 align="center">Hi 👋, I'm Fatima</h1>
+<h3 align="center">💻 MERN Stack & Wix Web Developer | 🚀 Passionate about Web Development</h3>
+
+---
+
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,github,git,vercel" />
+  <br>
+  <b>Other Tools:</b> Wix Web Development • Canva Graphic Design
+</p>
+
+---
+
+## 📂 Projects  
+✅ [Greencart](https://github.com/Fatimabutt786/Greencart) – E-commerce web app  
+✅ [Mern Real Estate](https://github.com/Fatimabutt786/Mern-Real-Estate) – Real estate platform  
+✅ [Prescripto](https://github.com/Fatimabutt786/Prescripto) – AI-powered doctor appointment booking system  
+✅ [Job Application Tracker](https://github.com/Fatimabutt786/Job-Application-Tracker) – Track job applications efficiently  
+✅ [My Portfolio](https://my-portfolio-nu-one-53.vercel.app) – Personal portfolio website  
+✅ [Mystery Solver (C Edition)](https://github.com/Fatimabutt786/Mystery-Solver-C-Edition) – C programming problem solver  
+✅ [TrendAura Website](#) – Wix-based e-commerce website  
+✅ [Wealth Wave Blog](#) – Blog website built on Wix  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-butt-bb31a529b/"><img src="https://img.shields.io/badge/-Fatima%20Butt-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://my-portfolio-nu-one-53.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Fatimabutt786"><img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+✨ *Thanks for visiting my profile!*  
+
 🚀 Passionate about building responsive websites & full-stack applications  
 
 ---
