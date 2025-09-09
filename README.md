@@ -65,9 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=default&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fatima25&theme=default&hide_border=true" height="180"/>
-</p>
+
 
 
 ---
