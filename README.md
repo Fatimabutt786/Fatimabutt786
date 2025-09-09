@@ -19,8 +19,7 @@
 ✅ [Job Application Tracker](https://github.com/Fatimabutt786/Job-Application-Tracker) – Track job applications efficiently  
 ✅ [My Portfolio](https://my-portfolio-nu-one-53.vercel.app) – Personal portfolio website  
 ✅ [Mystery Solver (C Edition)](https://github.com/Fatimabutt786/Mystery-Solver-C-Edition) – C programming problem solver  
-✅ [TrendAura Website](#) – Wix-based e-commerce website  
-✅ [Wealth Wave Blog](#) – Blog website built on Wix  
+
 
 
 ---
@@ -67,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=default&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Fatima25&theme=default&hide_border=true" height="180"/>
 </p>
 
 
