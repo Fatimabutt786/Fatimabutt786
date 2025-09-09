@@ -33,11 +33,6 @@
 
 ---
 
-✨ *Thanks for visiting my profile!*  
-
-🚀 Passionate about building responsive websites & full-stack applications  
-
----
 
 ## 🛠 **Tech Stack**
 - **Frontend:** React.js, HTML, CSS, JavaScript  
