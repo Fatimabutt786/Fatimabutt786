@@ -53,20 +53,17 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions  
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=radical&hide_border=true" height="160"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=transparent" alt="Fatima's GitHub stats" height="160"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatimabutt786&theme=radical" height="250"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
+
+  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=transparent" alt="GitHub Streak" height="160"/>
+
+</div>
 
 
 
