@@ -56,16 +56,19 @@
 ## 📊 GitHub & Coding Stats
 
 <div align="center">
-  <!-- GitHub Stats (transparent, borderless) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=transparent&hide_border=true" alt="Fatima's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=transparent&hide_border=true" alt="GitHub Streak" height="160"/>
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  
+  
+  <img src="https://streak-stats.demolab.com?user=Fatimabutt786&theme=tokyonight&hide_border=true" height="160"/>
+  
   <br/><br/>
-
-  <!-- LeetCode Stats Card (transparent, no border) -->
-  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=transparent&ext=activity&disable_border=true" alt="LeetCode Stats" height="250"/>
+  
+  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=dark&ext=activity&border=0" height="250"/>
 </div>
+
 
 
 
