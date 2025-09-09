@@ -61,7 +61,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=transparent" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Fatima25&theme=transparent" alt="GitHub Streak" height="160"/>
 
 </div>
 
