@@ -53,29 +53,19 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Contributions  
 
 <p align="center">
-  <!-- Main stats and top languages side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=default&hide_border=true" alt="Fatima's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <!-- GitHub contribution streak (optional) -->
-  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=default&hide_border=true" alt="GitHub Streak" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=Fatimabutt786&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Activity graph (weekly activity / commits timeline) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fatimabutt786&theme=github" alt="Fatima's Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Contribution calendar (GitHub's own calendar image via third-party service) -->
-  <img src="https://github.com/Fatimabutt786.png" alt="Profile" style="display:none;" />
-  <!-- If you want a nicer calendar-style heatmap, you can use this service: -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Fatimabutt786&theme=github" alt="Contribution Calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatimabutt786&theme=radical" height="250"/>
 </p>
 
 
