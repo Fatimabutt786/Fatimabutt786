@@ -63,8 +63,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent&hide_border=true" height="160"/>
 
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=transparent&ext=activity&border=0" height="250"/>
+
 
 </div>
 
