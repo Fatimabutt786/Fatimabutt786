@@ -56,19 +56,22 @@
 ## 📊 GitHub & Coding Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-  
-  
-  <img src="https://streak-stats.demolab.com?user=Fatimabutt786&theme=tokyonight&hide_border=true" height="160"/>
-  
-  <br/><br/>
-  
-  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=dark&ext=activity&border=0" height="250"/>
-</div>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimabutt786&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimabutt786&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Fatimabutt786&theme=transparent&hide_border=true" height="160"/>
+
+  <br/><br/>
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Fatima25?theme=transparent&ext=activity&border=0" height="250"/>
+
+</div>
 
 
 
