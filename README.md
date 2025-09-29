@@ -12,18 +12,6 @@
 
 ---
 
-## 📂 Projects  
-✅ [Greencart](https://github.com/Fatimabutt786/Greencart) – E-commerce web app  
-✅ [Mern Real Estate](https://github.com/Fatimabutt786/Mern-Real-Estate) – Real estate platform  
-✅ [Prescripto](https://github.com/Fatimabutt786/Prescripto) – AI-powered doctor appointment booking system  
-✅ [Job Application Tracker](https://github.com/Fatimabutt786/Job-Application-Tracker) – Track job applications efficiently  
-✅ [My Portfolio](https://my-portfolio-nu-one-53.vercel.app) – Personal portfolio website  
-✅ [Mystery Solver (C Edition)](https://github.com/Fatimabutt786/Mystery-Solver-C-Edition) – C programming problem solver  
-
-
-
----
-
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-butt-bb31a529b/"><img src="https://img.shields.io/badge/-Fatima%20Butt-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
